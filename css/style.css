@@ -1,0 +1,88 @@
+
+.foodPics {
+    width: 280px;
+    height: 200px;
+    border-radius: 6px;
+}
+
+#menuTable {
+    float: left;
+    text-align: left;
+    font-weight: bold;
+}
+
+button{
+    background-color: #e4002b;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    height: 25px;
+    font-size: 14px;
+}
+
+input[type=button]{
+    background-color: #e4002b;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    height: 25px;
+    font-size: 14px;
+}
+
+input[type=text]{
+    background-color: #FFF8EB;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    color: #0d0d0d;
+    height: 25px;
+    width: 124px;
+    font-size: 14px;
+}
+
+h3 {
+    font-size: 30px;
+
+}
+#cartTable {
+    width: 500px;
+    background-color: #FFF8EB;
+    font-family: Arial;
+
+}
+
+.headTable {
+
+    color: #e4002b;
+    border-radius: 5px;
+
+}
+
+.bodyTable {
+    height: 50px;
+    /*background-color: #FFF8EB;*/
+    font-weight: bold;
+    border: none;
+    font-size: 20px;
+
+
+}
+
+.footTable {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#removeButton {
+    text-align: center;
+}
+
+/*table {*/
+/*    border: black solid 1px;*/
+/*}*/
+
+/*td {*/
+/*    border: black solid 1px;*/
+/*}*/
